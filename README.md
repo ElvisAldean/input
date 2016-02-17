@@ -14,8 +14,8 @@ import math
 import random
 
 # Esta dos variable nos va ayudar a ingresar los punto que va a estar afuera o dentro del circulo para localizar el origen 
-Npontos = 100  # Caracteristica Bag-of-Task
-Acirc = 0
+     Npontos = 100  # Caracteristica Bag-of-Task
+     Acirc = 0
 
 # 2 - Obtener  el area com numeros aleatorios
 acumulador = 1
