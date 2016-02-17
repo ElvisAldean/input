@@ -4,6 +4,7 @@
 El objetivo de este programa es de hallar el valor más cercano a Pi por el método monte carlo la cual es un método probabilístico 
 
 Versión=   Python 2.7.3
+
 El programa nos ayuda a buscar el valor  que más se acerque a Pi.
 Teniendo una muestra de N# para saber cuál de ella es la que más se acerca a Pi,  la cual va hacer el objetivo.
 Mientras más  muestra tenemos más nos acercamos a punto de origen 
