@@ -22,7 +22,7 @@ while acumulador <= Npontos:
 ValorPi = 4*(float(Acirc)/float(Npontos))
 
 print ("===========================================")
-print ("                        ***  HOLA  Grupo #4   ***                     ")
+print ("    ***  HOLA  Grupo #4   ***                     ")
 print ("El valor que se acerca a Pi  es:==>  %.3f      " %ValorPi)
 print ("===========================================")
 
