@@ -9,7 +9,7 @@ El programa nos ayuda a buscar el valor  que más se acerque a Pi.
 Teniendo una muestra de N# para saber cuál de ella es la que más se acerca a Pi,  la cual va hacer el objetivo.
 Mientras más  muestra tenemos más nos acercamos a punto de origen 
 
-declaramos la liberias 
+#declaramos la liberias 
 import math
 import random
 
